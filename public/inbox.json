@@ -1,0 +1,22 @@
+[
+    {
+      "head": {
+        "subject": "Welcome to Our Service",
+        "from-name": "Support Team",
+        "from-email": "support@example.com",
+        "to": "user@example.com",
+        "date": "2024-11-29T12:34:56Z"
+      },
+      "body-txt": "Thank you for signing up for our service. We are excited to have you on board."
+    },
+    {
+      "head": {
+        "subject": "Your Order Has Been Shipped",
+        "from-name": "Sales Team",
+        "from-email": "sales@example.com",
+        "to": "user@example.com",
+        "date": "2024-11-28T09:21:34Z"
+      },
+      "body-txt": "Your order has been shipped and is on its way. You can track your order using the tracking number provided."
+    }
+  ]

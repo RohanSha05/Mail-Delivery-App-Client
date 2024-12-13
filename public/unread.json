@@ -1,0 +1,12 @@
+[
+    {
+      "head": {
+        "subject": "Password Reset Request",
+        "from-name": "Security Team",
+        "from-email": "security@example.com",
+        "to": "user@example.com",
+        "date": "2024-11-27T15:45:12Z"
+      },
+      "body-txt": "We received a request to reset your password. If you did not make this request, please ignore this email."
+    }
+  ]

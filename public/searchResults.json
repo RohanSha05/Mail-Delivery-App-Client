@@ -1,0 +1,12 @@
+[
+    {
+      "head": {
+        "subject": "Meeting Reminder",
+        "from-name": "HR Team",
+        "from-email": "hr@example.com",
+        "to": "user@example.com",
+        "date": "2024-11-25T09:00:00Z"
+      },
+      "body-txt": "This is a reminder for your upcoming meeting scheduled for tomorrow."
+    }
+  ]

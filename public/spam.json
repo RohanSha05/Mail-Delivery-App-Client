@@ -1,0 +1,12 @@
+[
+    {
+      "head": {
+        "subject": "You've Won a Prize!",
+        "from-name": "Spammy McSpamface",
+        "from-email": "spam@example.com",
+        "to": "user@example.com",
+        "date": "2024-11-26T10:00:00Z"
+      },
+      "body-txt": "Congratulations! You've won a prize. Click here to claim it."
+    }
+  ]
